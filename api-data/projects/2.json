@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "data": {
+    "id": 2,
+    "title": "基于 ARDUINO 的智慧办公室",
+    "summary": "有效提升办公舒适度并降低能耗，为智慧办公提供实用可靠的解决方案。",
+    "description": "有效提升办公舒适度并降低能耗，为智慧办公提供实用可靠的解决方案。\n\n## 功能\n\n- 光照与人体感应联动照明，无人自动熄灭\n- 温湿度监测与自动通风\n- 用电数据统计，找出高耗能时段\n\n## 说明\n\n系统以 Arduino 为主控，各传感器通过总线接入，数据汇总到值守终端。",
+    "cover": "uploads/lx-proj-office.webp",
+    "images": "[\"uploads/lx-proj-office.webp\"]",
+    "author_id": 5,
+    "author_name": "蔡泽妍",
+    "department_id": 1,
+    "category": "编程",
+    "tags": "[\"Arduino\",\"智慧办公\",\"物联网\"]",
+    "status": "published",
+    "is_featured": 1,
+    "view_count": 173,
+    "reviewed_by": null,
+    "review_note": "",
+    "created_at": "2026-06-11T16:00:00.000Z",
+    "updated_at": "2026-09-27T12:20:12.611Z",
+    "tech_stack": "[\"Arduino\",\"环境传感\",\"自动控制\",\"物联网\"]",
+    "period": "2024.09 – 2024.12",
+    "member_names": "实践部项目组",
+    "awards": "[]",
+    "demo_url": "https://chenyehuan1234.github.io/lingxiao/files/智慧办公演示视频.mp4",
+    "files": "[]"
+  }
+}

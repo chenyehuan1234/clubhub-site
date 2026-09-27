@@ -1,0 +1,48 @@
+{
+  "ok": true,
+  "data": {
+    "id": 3,
+    "title": "第一届社团节暨开放日",
+    "category": "展览",
+    "summary": "社团首秀：电磁炮、机械臂、3D 打印、机械蜘蛛、套圈游戏。",
+    "content": "作为凌逍科学会的首秀，我们在开放日展示了各大项目成果：\n\n- 电磁炮\n- 水下清洁机械臂\n- 3D 打印作品\n- 机械蜘蛛\n- 套圈互动游戏\n\n一天的时间里，展台几乎没有空过。",
+    "cover": "uploads/lx-ev-festival.webp",
+    "location": "校内",
+    "start_at": "2024-05-05T09:00:00.000Z",
+    "end_at": "2024-05-05T17:00:00.000Z",
+    "signup_deadline": "2024-05-01T23:59:00.000Z",
+    "capacity": 0,
+    "fee": 0,
+    "status": "finished",
+    "department_id": null,
+    "organizer": "凌逍科学会",
+    "contact": "到第二教学楼机房咨询",
+    "is_featured": 1,
+    "view_count": 147,
+    "created_by": 2,
+    "created_at": "2026-09-27T12:20:12.472Z",
+    "updated_at": "2026-09-27T12:20:12.472Z",
+    "signed": 5,
+    "department": null,
+    "related": [
+      {
+        "id": 10,
+        "title": "第三届社团节暨开放日",
+        "start_at": "2026-11-21T09:00:00.000Z",
+        "cover": "uploads/lx-proj-farm.webp"
+      },
+      {
+        "id": 9,
+        "title": "凌逍科学会第三届招新",
+        "start_at": "2026-10-16T13:00:00.000Z",
+        "cover": "uploads/lx-poster.webp"
+      },
+      {
+        "id": 8,
+        "title": "粤港澳学生信息科技创新大赛",
+        "start_at": "2025-05-22T08:00:00.000Z",
+        "cover": "uploads/lx-ev-gba.webp"
+      }
+    ]
+  }
+}

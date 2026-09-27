@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "data": {
+    "id": 1,
+    "title": "基于 ARDUINO 手势控制的水下清洁作业机械臂",
+    "summary": "一款新型防水机械臂，能够应用于水域垃圾清理工作。",
+    "description": "一款新型防水机械臂，能够应用于水域垃圾清理工作。\n\n## 设计思路\n\n操作者佩戴装有姿态传感器的控制手套，手部动作被实时解算为机械臂各关节的目标角度，经 Arduino 下发到舵机。整机做了防水处理，可在浅水环境作业。\n\n## 结构\n\n- 底盘：步进回转平台\n- 臂体：三自由度连杆结构，3D 打印件配合铝型材\n- 末端：可更换夹爪，用于抓取水面漂浮垃圾\n\n## 演示\n\n见「演示视频」链接。",
+    "cover": "uploads/lx-proj-arm.webp",
+    "images": "[\"uploads/lx-proj-arm.webp\"]",
+    "author_id": null,
+    "author_name": "陈烨寰",
+    "department_id": 1,
+    "category": "编程",
+    "tags": "[\"开发板设计\",\"程序设计\",\"Arduino\"]",
+    "status": "published",
+    "is_featured": 1,
+    "view_count": 123,
+    "reviewed_by": null,
+    "review_note": "",
+    "created_at": "2026-05-30T16:00:00.000Z",
+    "updated_at": "2026-09-27T12:20:12.608Z",
+    "tech_stack": "[\"Arduino\",\"舵机控制\",\"3D 打印结构\",\"防水设计\",\"手套姿态映射\"]",
+    "period": "2024.03 – 2024.06",
+    "member_names": "陈烨寰、张贵杰、蔡泽妍",
+    "awards": "[\"粤东青少年创客大赛一等奖（2024）\"]",
+    "demo_url": "https://chenyehuan1234.github.io/lingxiao/files/机械臂演示视频.mp4",
+    "files": "[]"
+  }
+}

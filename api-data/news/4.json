@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "data": {
+    "id": 4,
+    "title": "第一届社团节暨开放日回顾",
+    "summary": "电磁炮、机械臂、3D 打印、机械蜘蛛、套圈游戏 —— 社团第一次面向全校亮相。",
+    "content": "## 第一届社团节暨开放日回顾\n\n作为凌逍科学会的首秀，我们在开放日展示了各大项目成果：电磁炮、机械臂、3D 打印、机械蜘蛛，以及套圈互动游戏。\n\n一天的时间里，展台几乎没有空过。",
+    "category": "风采",
+    "cover": "uploads/lx-ev-festival.webp",
+    "status": "published",
+    "is_pinned": 0,
+    "author_id": 2,
+    "author_name": "姚俊熙",
+    "view_count": 241,
+    "published_at": "2024-05-05T10:00:00.000Z",
+    "created_at": "2026-09-27T12:20:12.631Z",
+    "updated_at": "2026-09-27T12:20:12.631Z",
+    "prev": {
+      "id": 3,
+      "title": "第二届社团成员招新完成"
+    },
+    "next": null
+  }
+}

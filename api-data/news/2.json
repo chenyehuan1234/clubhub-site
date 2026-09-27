@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "data": {
+    "id": 2,
+    "title": "STEAM 创客教育论坛：特等奖 1 项、三等奖 2 项、优秀奖 1 项",
+    "summary": "到韩山师范学院参加 2024 全国青少年 STEAM 创客教育论坛暨第八届粤东青少年创客大赛。",
+    "content": "## STEAM 创客教育论坛：特等奖 1 项、三等奖 2 项、优秀奖 1 项\n\n到韩山师范学院参加 2024 全国青少年 STEAM 创客教育论坛暨第八届粤东青少年创客大赛。\n\n- 特等奖 1 项\n- 三等奖 2 项\n- 优秀奖 1 项",
+    "category": "新闻",
+    "cover": "uploads/lx-ev-stem.webp",
+    "status": "published",
+    "is_pinned": 0,
+    "author_id": 2,
+    "author_name": "姚俊熙",
+    "view_count": 141,
+    "published_at": "2024-11-03T10:00:00.000Z",
+    "created_at": "2026-09-27T12:20:12.627Z",
+    "updated_at": "2026-09-27T12:20:12.627Z",
+    "prev": {
+      "id": 1,
+      "title": "凌逍科学会在粤港澳学生信息科技创新大赛获省级二等奖 2 项"
+    },
+    "next": {
+      "id": 3,
+      "title": "第二届社团成员招新完成"
+    }
+  }
+}

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>星火社 · 让每一个想法，都找到同频的人</title>
+<meta name="description" content="星火社官方站点：社团介绍、活动预告、作品展示、新闻公告与在线纳新报名。">
+<meta name="theme-color" content="#05070c">
+<meta property="og:type" content="website">
+<meta property="og:title" content="星火社 · 学生社团">
+<meta property="og:description" content="讲座、集训、创作、外拍、比赛 —— 一年四季都有事可做。">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/site.css">
+<script>
+  (function () {
+    var d = document.documentElement;
+    d.classList.add('js-rv');
+    try { d.dataset.motion = localStorage.getItem('clubhub.motion') === 'off' ? 'off' : 'on'; }
+    catch (e) { d.dataset.motion = 'on'; }
+  })();
+</script>
+</head>
+<body>
+<div class="nav-bar" id="nav-bar" aria-hidden="true"></div>
+
+<header class="p-nav" id="p-nav">
+  <div class="container p-nav-inner">
+    <a class="p-brand" href="#/" id="brand">
+      <span class="mark" id="brand-mark">星</span>
+      <span class="nm" id="brand-name">星火社</span>
+    </a>
+
+    <nav class="p-menu" id="site-menu" aria-label="主导航">
+      <a href="#/" data-nav="home">首页</a>
+      <a href="#/about" data-nav="about">关于</a>
+      <a href="#/departments" data-nav="departments">部门</a>
+      <a href="#/members" data-nav="members">成员</a>
+      <a href="#/events" data-nav="events">活动</a>
+      <a href="#/courses" data-nav="courses">课程</a>
+      <a href="#/projects" data-nav="projects">项目</a>
+      <a href="#/news" data-nav="news">资讯</a>
+      <a href="#/join" data-nav="join">加入我们</a>
+      <a href="#/contact" data-nav="contact" class="only-mobile">联系我们</a>
+      <a href="#/join" class="only-mobile" id="menu-portal">社内入口 / 会员中心</a>
+    </nav>
+
+    <div class="p-actions">
+      <button class="btn btn-ghost btn-icon" id="btn-search" type="button" title="搜索" aria-label="搜索">⌕</button>
+      <button class="btn btn-ghost btn-icon" data-motion-toggle type="button" aria-pressed="true" title="关闭滚动动效" aria-label="切换滚动动效">
+        <svg class="spark" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M6 6l2 2M16 16l2 2M18 6l-2 2M8 16l-2 2"/><circle cx="12" cy="12" r="3.2"/></svg>
+      </button>
+      <button class="btn btn-ghost btn-icon" data-theme-toggle id="btn-theme" type="button" aria-label="切换主题">☀</button>
+      <a class="btn btn-sm hide-sm" href="#/join" id="btn-portal">社内入口</a>
+      <a class="btn btn-primary btn-sm hide-xs" href="#/join">加入我们</a>
+      <button class="btn btn-ghost btn-icon p-toggle" id="btn-menu" type="button" aria-label="菜单" aria-expanded="false">☰</button>
+    </div>
+  </div>
+</header>
+
+<main id="view" role="main"></main>
+
+<footer class="p-footer">
+  <div class="container">
+    <div class="p-footer-grid">
+      <div>
+        <div class="brand-line">
+          <span class="mark" id="foot-mark">凌</span>
+          <span class="nm" id="foot-name">凌逍科学会</span>
+        </div>
+        <p class="intro" id="foot-intro"></p>
+      </div>
+      <div>
+        <h5>浏览</h5>
+        <a href="#/events">活动与比赛</a>
+        <a href="#/projects">项目成果</a>
+        <a href="#/news">新闻</a>
+        <a href="#/courses">课程安排</a>
+      </div>
+      <div>
+        <h5>了解</h5>
+        <a href="#/about">关于社团</a>
+        <a href="#/departments">部门介绍</a>
+        <a href="#/members">社员名录</a>
+        <a href="#/announcements">公告栏</a>
+      </div>
+      <div>
+        <h5>研究方向</h5>
+        <div id="foot-areas"><span class="li">—</span></div>
+      </div>
+      <div>
+        <h5>友情链接</h5>
+        <div id="foot-friends"><span class="li">—</span></div>
+      </div>
+      <div>
+        <h5>联系</h5>
+        <span class="li" id="foot-email">—</span>
+        <span class="li" id="foot-phone">—</span>
+        <span class="li" id="foot-addr">—</span>
+        <span class="li" id="foot-hours">—</span>
+        <a href="#/join">社内入口</a>
+      </div>
+    </div>
+    <div class="p-footer-bottom">
+      <span id="foot-copy">© 星火社</span>
+      <span id="foot-icp"></span>
+    </div>
+  </div>
+</footer>
+
+<script type="module" src="js/site.js"></script>
+</body>
+</html>

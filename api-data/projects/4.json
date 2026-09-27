@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "data": {
+    "id": 4,
+    "title": "道家文化视觉标识设计",
+    "summary": "道家文化源于春秋时期的老子，是中国传统文化的重要组成部分。",
+    "description": "道家文化源于春秋时期的老子，是中国传统文化的重要组成部分。\n\n## 设计说明\n\n以太极与水的意象为出发点，用极简的线条关系表达「上善若水」的气质。整体控制在两色以内，保证在小尺寸下依然清晰。\n\n## 交付\n\n- 标志正稿与反白稿\n- 使用规范\n- 作品展示 PPT（见「相关文件」）",
+    "cover": "uploads/lx-proj-daoism.webp",
+    "images": "[\"uploads/lx-proj-daoism.webp\"]",
+    "author_id": 8,
+    "author_name": "王丽雯",
+    "department_id": 3,
+    "category": "设计",
+    "tags": "[\"标志设计\",\"视觉传达\"]",
+    "status": "published",
+    "is_featured": 0,
+    "view_count": 264,
+    "reviewed_by": null,
+    "review_note": "",
+    "created_at": "2026-07-05T16:00:00.000Z",
+    "updated_at": "2026-09-27T12:20:12.616Z",
+    "tech_stack": "[\"Photoshop\",\"Illustrator\",\"版式设计\"]",
+    "period": "2024.11",
+    "member_names": "王丽雯、辛炎書",
+    "awards": "[]",
+    "demo_url": "https://chenyehuan1234.github.io/lingxiao/files/道家文化视频.mp4",
+    "files": "[]"
+  }
+}

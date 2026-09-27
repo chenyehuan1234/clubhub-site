@@ -1,0 +1,75 @@
+{
+  "ok": true,
+  "data": {
+    "id": 3,
+    "name": "设计部",
+    "slug": "design",
+    "icon": "🎨",
+    "summary": "视觉设计、3D 建模与打印、AIGC 创作，让项目看得见。",
+    "description": "设计部负责一切对外呈现：Photoshop 修图与排版、123D 三维建模与打印、以及用 AI 技术做非遗数字化这样的创作课题。社团的海报、明信片与展板都出自这里。",
+    "leader_user_id": 8,
+    "email": "",
+    "sort_order": 2,
+    "created_at": "2026-09-27T12:20:11.246Z",
+    "updated_at": "2026-09-27T12:20:11.246Z",
+    "intro": "社团的对外门面：海报、排版、3D 建模与打印、AI 创作。你的作品会被全校看到。",
+    "cover": "uploads/lx-ev-festival.webp",
+    "leader_name": "王丽雯",
+    "leader_avatar": "uploads/av-wangliwen.webp",
+    "leader_position": "设计部部长",
+    "leader_bio": "擅长 Ps 设计，PPT，123D",
+    "member_count": 2,
+    "members": [
+      {
+        "id": 8,
+        "name": "王丽雯",
+        "position": "设计部部长",
+        "avatar": "uploads/av-wangliwen.webp",
+        "grade": "高二",
+        "bio": "擅长 Ps 设计，PPT，123D"
+      },
+      {
+        "id": 9,
+        "name": "辛炎書",
+        "position": "设计部副部长",
+        "avatar": "uploads/av-xinyanshu.webp",
+        "grade": "高二",
+        "bio": "主攻 3D 建模"
+      }
+    ],
+    "courses": [
+      {
+        "id": 7,
+        "title": "3D 建模与打印（123D）",
+        "code": "DESI-102",
+        "category": "常规课",
+        "cover": "uploads/lx-proj-farm.webp",
+        "summary": "认识 3D 建模（123D），制作碗和花瓶。"
+      },
+      {
+        "id": 6,
+        "title": "Photoshop 设计与排版",
+        "code": "DESI-101",
+        "category": "常规课",
+        "cover": "uploads/lx-ev-festival.webp",
+        "summary": "认识 Ps 及制作工作证，明信片设计，海报设计，报纸排版设计。"
+      }
+    ],
+    "projects": [
+      {
+        "id": 6,
+        "title": "永不磨灭的艺术 —— 嵌瓷",
+        "category": "设计",
+        "cover": "uploads/lx-proj-cixi.webp",
+        "summary": "通过 AI 技术深入挖掘和整理非遗资源，用数字化技术进行保护。"
+      },
+      {
+        "id": 4,
+        "title": "道家文化视觉标识设计",
+        "category": "设计",
+        "cover": "uploads/lx-proj-daoism.webp",
+        "summary": "道家文化源于春秋时期的老子，是中国传统文化的重要组成部分。"
+      }
+    ]
+  }
+}

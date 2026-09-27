@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "data": {
+    "id": 1,
+    "title": "社团日常活动时间",
+    "content": "周一至周五 13:00–14:00、17:00–18:00；周末全天。\n\n地点：图书馆 302（理论课、实践课）、第二教学楼机房（上机与设计课）。\n\n请各位社员按课表准时到课，缺课请在会员中心提交请假。",
+    "level": "important",
+    "status": "published",
+    "is_pinned": 0,
+    "target_type": "all",
+    "target_ids": "[]",
+    "publish_at": "2026-08-28T09:00:00.000Z",
+    "expire_at": "2027-03-26T23:59:00.000Z",
+    "author_id": 2,
+    "author_name": "姚俊熙",
+    "view_count": 42,
+    "created_at": "2026-09-27T12:20:12.633Z",
+    "updated_at": "2026-09-27T12:20:12.633Z"
+  }
+}

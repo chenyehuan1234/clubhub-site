@@ -1,0 +1,48 @@
+{
+  "ok": true,
+  "data": {
+    "id": 9,
+    "title": "凌逍科学会第三届招新",
+    "category": "社团活动",
+    "summary": "面向全校招募第三届社员，三个部门同时开放报名。",
+    "content": "## 招新说明\n\n本次招新面向全校同学，不限年级、不限基础。\n\n### 开放部门\n\n- **实践部**：动手做项目，Arduino、传感器、程序设计\n- **理论部**：数理基础、算法与科学实验\n- **设计部**：Photoshop、3D 建模与打印、AIGC\n\n### 报名方式\n\n在「加入我们」页面提交申请，或直接到第二教学楼机房找我们。",
+    "cover": "uploads/lx-poster.webp",
+    "location": "第二教学楼机房",
+    "start_at": "2026-10-16T13:00:00.000Z",
+    "end_at": "2026-10-16T18:00:00.000Z",
+    "signup_deadline": "2026-10-12T23:59:00.000Z",
+    "capacity": 30,
+    "fee": 0,
+    "status": "published",
+    "department_id": null,
+    "organizer": "凌逍科学会",
+    "contact": "到第二教学楼机房咨询",
+    "is_featured": 1,
+    "view_count": 371,
+    "created_by": 2,
+    "created_at": "2026-09-27T12:20:12.487Z",
+    "updated_at": "2026-09-27T12:20:12.487Z",
+    "signed": 4,
+    "department": null,
+    "related": [
+      {
+        "id": 10,
+        "title": "第三届社团节暨开放日",
+        "start_at": "2026-11-21T09:00:00.000Z",
+        "cover": "uploads/lx-proj-farm.webp"
+      },
+      {
+        "id": 8,
+        "title": "粤港澳学生信息科技创新大赛",
+        "start_at": "2025-05-22T08:00:00.000Z",
+        "cover": "uploads/lx-ev-gba.webp"
+      },
+      {
+        "id": 7,
+        "title": "STEAM 创客教育论坛暨粤东青少年创客大赛",
+        "start_at": "2024-11-03T08:00:00.000Z",
+        "cover": "uploads/lx-ev-stem.webp"
+      }
+    ]
+  }
+}

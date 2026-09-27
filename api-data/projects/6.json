@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "data": {
+    "id": 6,
+    "title": "永不磨灭的艺术 —— 嵌瓷",
+    "summary": "通过 AI 技术深入挖掘和整理非遗资源，用数字化技术进行保护。",
+    "description": "通过 AI 技术，深入挖掘和整理非遗资源，通过数字化技术进行保护。\n\n## 做了什么\n\n- 收集嵌瓷现存影像资料并分类标注\n- 用生成式模型补全残缺纹样\n- 输出一套可用于文创的数字化纹样库\n\n## 意义\n\n让即将失传的手艺以数字形态留下来。",
+    "cover": "uploads/lx-proj-cixi.webp",
+    "images": "[\"uploads/lx-proj-cixi.webp\"]",
+    "author_id": 9,
+    "author_name": "辛炎書",
+    "department_id": 3,
+    "category": "设计",
+    "tags": "[\"AIGC\",\"非遗数字化\"]",
+    "status": "published",
+    "is_featured": 0,
+    "view_count": 358,
+    "reviewed_by": null,
+    "review_note": "",
+    "created_at": "2026-07-29T16:00:00.000Z",
+    "updated_at": "2026-09-27T12:20:12.622Z",
+    "tech_stack": "[\"AIGC\",\"图像修复\",\"数字化整理\"]",
+    "period": "2025.04 – 2025.06",
+    "member_names": "设计部项目组",
+    "awards": "[]",
+    "demo_url": "",
+    "files": "[]"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "ok": true,
+  "items": [
+    {
+      "id": 1,
+      "title": "凌逍科学会在粤港澳学生信息科技创新大赛获省级二等奖 2 项",
+      "category": "新闻",
+      "summary": "4 名社员赴珠海参赛并开展研学活动，最终斩获省级二等奖 2 项。",
+      "cover": "uploads/lx-ev-gba.webp",
+      "is_pinned": 1,
+      "author_name": "姚俊熙",
+      "view_count": 90,
+      "sort_at": "2025-05-22T10:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "title": "STEAM 创客教育论坛：特等奖 1 项、三等奖 2 项、优秀奖 1 项",
+      "category": "新闻",
+      "summary": "到韩山师范学院参加 2024 全国青少年 STEAM 创客教育论坛暨第八届粤东青少年创客大赛。",
+      "cover": "uploads/lx-ev-stem.webp",
+      "is_pinned": 0,
+      "author_name": "姚俊熙",
+      "view_count": 140,
+      "sort_at": "2024-11-03T10:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "第二届社团成员招新完成",
+      "category": "公告",
+      "summary": "社团完成第二届成员招新，并召开第二届新生大会暨社团动员大会。",
+      "cover": "uploads/lx-ev-recruit.webp",
+      "is_pinned": 0,
+      "author_name": "姚俊熙",
+      "view_count": 189,
+      "sort_at": "2024-10-31T10:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "第一届社团节暨开放日回顾",
+      "category": "风采",
+      "summary": "电磁炮、机械臂、3D 打印、机械蜘蛛、套圈游戏 —— 社团第一次面向全校亮相。",
+      "cover": "uploads/lx-ev-festival.webp",
+      "is_pinned": 0,
+      "author_name": "姚俊熙",
+      "view_count": 240,
+      "sort_at": "2024-05-05T10:00:00.000Z"
+    }
+  ],
+  "total": 4,
+  "page": 1,
+  "pageSize": 100,
+  "pages": 1
+}

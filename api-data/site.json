@@ -1,0 +1,431 @@
+{
+  "ok": true,
+  "data": {
+    "settings": {
+      "site_name": "凌逍科学会",
+      "site_name_en": "LINGXIAO SCIENCE",
+      "site_slogan": "激发科学兴趣，培养创新能力",
+      "site_intro": "凌逍科学会成立于 2023 年，是学校具有广泛影响力的科创数理类社团。我们汇聚校园中的科学爱好者，共同探索科技前沿、激发创新思维、拥抱数理之美。社团以「激发科学兴趣，培养创新能力」为宗旨，定期开展科学讲座、上机实践、科技竞赛等多元活动，推动科学知识的传播与共享，为每一位成员提供交流展示与成长的平台。\n\n凌逍科学会下设实践部、理论部和设计部。各部门职能清晰、优势互补、协同共进，形成了高效联动的运行机制，共同推动社团持续发展。\n\n我们坚持以学生自主探索为核心，教师专业指导为支撑，引导成员运用人工智能、物联网、大数据等前沿信息技术，开展富有创新性与实践性的社团项目。项目覆盖人工智能、电子信息、程序设计、3D 建模与打印等多个前沿领域。在这里，你将积累知识、锻炼能力、拓展视野 —— 这是一个真正属于科学热爱者的舞台。",
+      "logo_text": "凌",
+      "logo_image": "uploads/lx-logo.webp",
+      "favicon": "",
+      "theme_color": "#4f7cff",
+      "hero_title": "探索无限科学可能",
+      "hero_subtitle": "凌逍科学会致力于激发学生对科学的兴趣，培养创新思维和实践能力，通过丰富的科研项目和活动，引领青年探索科技前沿。",
+      "hero_cta_text": "加入我们",
+      "hero_cta_link": "#/join",
+      "about_title": "关于我们",
+      "home_visual": "uploads/lx-hero-group.webp",
+      "home_visual_caption": "凌逍科学会 · 社员合影（第二教学楼机房）",
+      "home_feature_a_image": "",
+      "home_feature_b_image": "uploads/lx-ev-found.webp",
+      "contact_email": "lingxiao.science@example.com",
+      "contact_phone": "",
+      "contact_address": "第二教学楼机房，图书馆 302",
+      "office_hours": "周一至周五 13:00–14:00、17:00–18:00；周末全天",
+      "qq_group": "",
+      "wechat_official": "",
+      "social_links": [],
+      "friend_links": [
+        {
+          "label": "汕头金中海湾学校",
+          "url": "https://www.stjzhwxx.net/"
+        },
+        {
+          "label": "汕头市教育局",
+          "url": "https://www.shantou.gov.cn/edu/"
+        },
+        {
+          "label": "汕头市金山中学",
+          "url": "https://www.stjszx.net/"
+        },
+        {
+          "label": "不一样的海湾网站",
+          "url": "https://chenyehuan1234.github.io/jzhw"
+        },
+        {
+          "label": "凌逍网站 V0",
+          "url": "https://chenyehuan1234.github.io/lingxiao/V0/"
+        },
+        {
+          "label": "凌逍网站 V1",
+          "url": "https://chenyehuan1234.github.io/lingxiao/V1/"
+        },
+        {
+          "label": "凌逍网站 V2",
+          "url": "https://chenyehuan1234.github.io/lingxiao/V2/"
+        },
+        {
+          "label": "凌逍网站 V3",
+          "url": "https://chenyehuan1234.github.io/lingxiao/V3/"
+        }
+      ],
+      "research_areas": [
+        "3D 软件学习与打印",
+        "编程语言学习",
+        "AI 技术",
+        "PS 设计",
+        "高等理论知识",
+        "团队协作"
+      ],
+      "milestones": [
+        {
+          "year": "2023",
+          "title": "凌逍科学会成立",
+          "desc": "2023 年 10 月 5 日正式成立，第一届分设实践部、理论部。"
+        },
+        {
+          "year": "2023",
+          "title": "首次外出参赛",
+          "desc": "第 39 届汕头市青少年科技创新大赛获市二等奖、市三等奖各一项，粤东科创大赛一等奖。"
+        },
+        {
+          "year": "2024",
+          "title": "第一届社团节暨开放日",
+          "desc": "展示电磁炮、机械臂、3D 打印、机械蜘蛛等项目成果。"
+        },
+        {
+          "year": "2024",
+          "title": "省赛突破",
+          "desc": "广东省创意机器人汕头市预赛二等奖 2 项、三等奖 1 项；全国青少年 STEAM 创客教育论坛特等奖 1 项。"
+        },
+        {
+          "year": "2025",
+          "title": "粤港澳大赛",
+          "desc": "2025 年粤港澳学生信息科技创新大赛获省级二等奖 2 项。"
+        }
+      ],
+      "honors": [
+        {
+          "year": "2025",
+          "title": "粤港澳学生信息科技创新大赛 · 省级二等奖 2 项"
+        },
+        {
+          "year": "2024",
+          "title": "全国青少年 STEAM 创客教育论坛 · 特等奖 1 项、三等奖 2 项、优秀奖 1 项"
+        },
+        {
+          "year": "2024",
+          "title": "广东省创意机器人汕头市预赛 · 二等奖 2 项、三等奖 1 项"
+        },
+        {
+          "year": "2023",
+          "title": "粤东青少年创客大赛 · 一等奖"
+        },
+        {
+          "year": "2023",
+          "title": "第 39 届汕头市青少年科技创新大赛 · 二等奖、三等奖各一项"
+        }
+      ],
+      "join_process": [
+        {
+          "step": "01",
+          "title": "提交报名",
+          "desc": "填写姓名与联系方式，说明你想加入的部门。"
+        },
+        {
+          "step": "02",
+          "title": "参加宣讲",
+          "desc": "新生大会暨社团动员大会，了解三个部门的分工与项目。"
+        },
+        {
+          "step": "03",
+          "title": "选择部门",
+          "desc": "实践部动手做项目，理论部攻数理与算法，设计部做视觉与 3D。"
+        },
+        {
+          "step": "04",
+          "title": "正式入社",
+          "desc": "开通社内账号，进入课程与项目，跟着学长学姐一起做东西。"
+        }
+      ],
+      "footer_text": "思辨尚奥，求索务高 —— 因为我们归宿在凌逍",
+      "icp_text": "",
+      "open_register": "1"
+    },
+    "counts": {
+      "members": 10,
+      "events": 10,
+      "projects": 6,
+      "courses": 7,
+      "documents": 1,
+      "departments": 3
+    },
+    "featuredEvents": [
+      {
+        "id": 9,
+        "title": "凌逍科学会第三届招新",
+        "category": "社团活动",
+        "cover": "uploads/lx-poster.webp",
+        "summary": "面向全校招募第三届社员，三个部门同时开放报名。",
+        "location": "第二教学楼机房",
+        "start_at": "2026-10-16T13:00:00.000Z",
+        "end_at": "2026-10-16T18:00:00.000Z",
+        "capacity": 30,
+        "status": "published",
+        "is_featured": 1,
+        "signup_deadline": "2026-10-12T23:59:00.000Z",
+        "signed": 4
+      },
+      {
+        "id": 10,
+        "title": "第三届社团节暨开放日",
+        "category": "展览",
+        "cover": "uploads/lx-proj-farm.webp",
+        "summary": "一年一度的项目成果展，机械臂、智慧农业、3D 打印作品集中亮相。",
+        "location": "校内",
+        "start_at": "2026-11-21T09:00:00.000Z",
+        "end_at": "2026-11-21T17:00:00.000Z",
+        "capacity": 0,
+        "status": "published",
+        "is_featured": 1,
+        "signup_deadline": "2026-11-17T23:59:00.000Z",
+        "signed": 4
+      }
+    ],
+    "featuredProjects": [
+      {
+        "id": 5,
+        "title": "基于蒙特卡洛算法模拟优化的演唱会交通网络评估",
+        "category": "其他",
+        "cover": "uploads/lx-proj-montecarlo.webp",
+        "summary": "优化蒙特卡洛树搜索，对演唱会散场时的车辆最优路线与道路拥堵度进行分析。",
+        "author_name": "吕伟滨"
+      },
+      {
+        "id": 2,
+        "title": "基于 ARDUINO 的智慧办公室",
+        "category": "编程",
+        "cover": "uploads/lx-proj-office.webp",
+        "summary": "有效提升办公舒适度并降低能耗，为智慧办公提供实用可靠的解决方案。",
+        "author_name": "蔡泽妍"
+      },
+      {
+        "id": 1,
+        "title": "基于 ARDUINO 手势控制的水下清洁作业机械臂",
+        "category": "编程",
+        "cover": "uploads/lx-proj-arm.webp",
+        "summary": "一款新型防水机械臂，能够应用于水域垃圾清理工作。",
+        "author_name": "陈烨寰"
+      },
+      {
+        "id": 6,
+        "title": "永不磨灭的艺术 —— 嵌瓷",
+        "category": "设计",
+        "cover": "uploads/lx-proj-cixi.webp",
+        "summary": "通过 AI 技术深入挖掘和整理非遗资源，用数字化技术进行保护。",
+        "author_name": "辛炎書"
+      },
+      {
+        "id": 4,
+        "title": "道家文化视觉标识设计",
+        "category": "设计",
+        "cover": "uploads/lx-proj-daoism.webp",
+        "summary": "道家文化源于春秋时期的老子，是中国传统文化的重要组成部分。",
+        "author_name": "王丽雯"
+      },
+      {
+        "id": 3,
+        "title": "新型可持续发展智慧物联农业系统",
+        "category": "编程",
+        "cover": "uploads/lx-proj-farm.webp",
+        "summary": "应用在缺水干旱地区的作物精细化种植。",
+        "author_name": "陈泽纯"
+      }
+    ],
+    "latestNews": [
+      {
+        "id": 1,
+        "title": "凌逍科学会在粤港澳学生信息科技创新大赛获省级二等奖 2 项",
+        "category": "新闻",
+        "summary": "4 名社员赴珠海参赛并开展研学活动，最终斩获省级二等奖 2 项。",
+        "cover": "uploads/lx-ev-gba.webp",
+        "published_at": "2025-05-22T10:00:00.000Z",
+        "created_at": "2026-09-27T12:20:12.624Z",
+        "is_pinned": 1
+      },
+      {
+        "id": 2,
+        "title": "STEAM 创客教育论坛：特等奖 1 项、三等奖 2 项、优秀奖 1 项",
+        "category": "新闻",
+        "summary": "到韩山师范学院参加 2024 全国青少年 STEAM 创客教育论坛暨第八届粤东青少年创客大赛。",
+        "cover": "uploads/lx-ev-stem.webp",
+        "published_at": "2024-11-03T10:00:00.000Z",
+        "created_at": "2026-09-27T12:20:12.627Z",
+        "is_pinned": 0
+      },
+      {
+        "id": 3,
+        "title": "第二届社团成员招新完成",
+        "category": "公告",
+        "summary": "社团完成第二届成员招新，并召开第二届新生大会暨社团动员大会。",
+        "cover": "uploads/lx-ev-recruit.webp",
+        "published_at": "2024-10-31T10:00:00.000Z",
+        "created_at": "2026-09-27T12:20:12.629Z",
+        "is_pinned": 0
+      },
+      {
+        "id": 4,
+        "title": "第一届社团节暨开放日回顾",
+        "category": "风采",
+        "summary": "电磁炮、机械臂、3D 打印、机械蜘蛛、套圈游戏 —— 社团第一次面向全校亮相。",
+        "cover": "uploads/lx-ev-festival.webp",
+        "published_at": "2024-05-05T10:00:00.000Z",
+        "created_at": "2026-09-27T12:20:12.631Z",
+        "is_pinned": 0
+      }
+    ],
+    "announcements": [
+      {
+        "id": 3,
+        "title": "实验室安全与器材借用规范",
+        "level": "urgent",
+        "publish_at": "2026-09-25T09:00:00.000Z",
+        "created_at": "2026-09-27T12:20:12.637Z"
+      },
+      {
+        "id": 2,
+        "title": "第三届招新即将开始",
+        "level": "normal",
+        "publish_at": "2026-09-21T09:00:00.000Z",
+        "created_at": "2026-09-27T12:20:12.635Z"
+      },
+      {
+        "id": 1,
+        "title": "社团日常活动时间",
+        "level": "important",
+        "publish_at": "2026-08-28T09:00:00.000Z",
+        "created_at": "2026-09-27T12:20:12.633Z"
+      }
+    ],
+    "departments": [
+      {
+        "id": 1,
+        "name": "实践部",
+        "icon": "🔧",
+        "cover": "uploads/lx-proj-arm.webp",
+        "summary": "开发板、传感器与程序设计的动手项目，社团项目落地的主力。"
+      },
+      {
+        "id": 2,
+        "name": "理论部",
+        "icon": "📐",
+        "cover": "uploads/lx-ev-academic.webp",
+        "summary": "数理基础、算法与科学实验，为项目提供理论与算法支撑。"
+      },
+      {
+        "id": 3,
+        "name": "设计部",
+        "icon": "🎨",
+        "cover": "uploads/lx-ev-festival.webp",
+        "summary": "视觉设计、3D 建模与打印、AIGC 创作，让项目看得见。"
+      }
+    ],
+    "gallery": [
+      {
+        "id": 1,
+        "image": "uploads/lx-ev-festival.webp",
+        "title": "社团节现场",
+        "caption": "一年一度的社团节，三个部门同时出摊",
+        "layout": "large",
+        "link": ""
+      },
+      {
+        "id": 13,
+        "image": "uploads/mujuyzxk-76b560e5a1f8728f.jpg",
+        "title": "第一届夏令营",
+        "caption": "",
+        "layout": "normal",
+        "link": ""
+      },
+      {
+        "id": 2,
+        "image": "uploads/lx-proj-arm.webp",
+        "title": "水下清洁机械臂",
+        "caption": "从电路到结构，全部由社员自己搭出来",
+        "layout": "tall",
+        "link": ""
+      },
+      {
+        "id": 3,
+        "image": "uploads/lx-ev-shantou.webp",
+        "title": "汕头科技馆交流",
+        "caption": "把作品带出校门，讲给别人听",
+        "layout": "normal",
+        "link": ""
+      },
+      {
+        "id": 4,
+        "image": "uploads/lx-proj-office.webp",
+        "title": "智慧办公室",
+        "caption": "物联网方向的项目原型",
+        "layout": "offset",
+        "link": ""
+      },
+      {
+        "id": 5,
+        "image": "uploads/lx-ev-robot.webp",
+        "title": "创意机器人展",
+        "caption": "在科技馆给小朋友演示的一天",
+        "layout": "normal",
+        "link": ""
+      },
+      {
+        "id": 6,
+        "image": "uploads/lx-poster.webp",
+        "title": "全社大合影",
+        "caption": "两百多人的会场，一年里最热闹的一天",
+        "layout": "large",
+        "link": ""
+      },
+      {
+        "id": 7,
+        "image": "uploads/lx-ev-academic.webp",
+        "title": "学术交流日",
+        "caption": "社员轮流上台讲自己最近在学什么",
+        "layout": "offset-up",
+        "link": ""
+      },
+      {
+        "id": 8,
+        "image": "uploads/lx-proj-farm.webp",
+        "title": "智慧物联农业系统",
+        "caption": "传感器、单片机与一块菜地",
+        "layout": "normal",
+        "link": ""
+      },
+      {
+        "id": 9,
+        "image": "uploads/lx-ev-recruit.webp",
+        "title": "招新现场",
+        "caption": "新一届社员加入的那天",
+        "layout": "normal",
+        "link": ""
+      },
+      {
+        "id": 10,
+        "image": "uploads/lx-proj-daoism.webp",
+        "title": "非遗数字化",
+        "caption": "用设计语言重讲传统故事",
+        "layout": "tall",
+        "link": ""
+      },
+      {
+        "id": 11,
+        "image": "uploads/lx-ev-gba.webp",
+        "title": "湾区科创行",
+        "caption": "去珠海看更外面的世界",
+        "layout": "wide",
+        "link": ""
+      },
+      {
+        "id": 12,
+        "image": "uploads/lx-hero-group.webp",
+        "title": "社干大合照",
+        "caption": "这一届的我们",
+        "layout": "large",
+        "link": ""
+      }
+    ]
+  }
+}

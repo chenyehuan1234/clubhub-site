@@ -1,0 +1,48 @@
+{
+  "ok": true,
+  "data": {
+    "id": 1,
+    "title": "凌逍科学会正式成立",
+    "category": "社团活动",
+    "summary": "第一届分设实践部、理论部。",
+    "content": "2023 年 10 月 5 日，凌逍科学会正式成立。第一届设实践部与理论部，由指导老师苏煜辉带队。\n\n成立当天确定了社团宗旨：激发科学兴趣，培养创新能力。",
+    "cover": "uploads/lx-ev-found.webp",
+    "location": "第二教学楼机房",
+    "start_at": "2023-10-05T13:00:00.000Z",
+    "end_at": "2023-10-05T14:00:00.000Z",
+    "signup_deadline": "2023-10-01T23:59:00.000Z",
+    "capacity": 0,
+    "fee": 0,
+    "status": "finished",
+    "department_id": null,
+    "organizer": "凌逍科学会",
+    "contact": "到第二教学楼机房咨询",
+    "is_featured": 0,
+    "view_count": 72,
+    "created_by": 2,
+    "created_at": "2026-09-27T12:20:12.467Z",
+    "updated_at": "2026-09-27T12:20:12.467Z",
+    "signed": 5,
+    "department": null,
+    "related": [
+      {
+        "id": 10,
+        "title": "第三届社团节暨开放日",
+        "start_at": "2026-11-21T09:00:00.000Z",
+        "cover": "uploads/lx-proj-farm.webp"
+      },
+      {
+        "id": 9,
+        "title": "凌逍科学会第三届招新",
+        "start_at": "2026-10-16T13:00:00.000Z",
+        "cover": "uploads/lx-poster.webp"
+      },
+      {
+        "id": 8,
+        "title": "粤港澳学生信息科技创新大赛",
+        "start_at": "2025-05-22T08:00:00.000Z",
+        "cover": "uploads/lx-ev-gba.webp"
+      }
+    ]
+  }
+}

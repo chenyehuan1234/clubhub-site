@@ -1,0 +1,48 @@
+{
+  "ok": true,
+  "data": {
+    "id": 6,
+    "title": "第二届社团成员招新",
+    "category": "社团活动",
+    "summary": "完成第二届社团成员招新，并召开第二届新生大会暨社团动员大会。",
+    "content": "凌逍科学会完成第二届社团成员招新，并召开第二届新生大会暨社团动员大会。\n\n新一届成员加入实践部、理论部与设计部，社团规模进一步扩大。",
+    "cover": "uploads/lx-ev-recruit.webp",
+    "location": "第二教学楼机房",
+    "start_at": "2024-10-31T13:00:00.000Z",
+    "end_at": "2024-10-31T18:00:00.000Z",
+    "signup_deadline": "2024-10-27T23:59:00.000Z",
+    "capacity": 0,
+    "fee": 0,
+    "status": "finished",
+    "department_id": null,
+    "organizer": "凌逍科学会",
+    "contact": "到第二教学楼机房咨询",
+    "is_featured": 0,
+    "view_count": 257,
+    "created_by": 2,
+    "created_at": "2026-09-27T12:20:12.479Z",
+    "updated_at": "2026-09-27T12:20:12.479Z",
+    "signed": 5,
+    "department": null,
+    "related": [
+      {
+        "id": 10,
+        "title": "第三届社团节暨开放日",
+        "start_at": "2026-11-21T09:00:00.000Z",
+        "cover": "uploads/lx-proj-farm.webp"
+      },
+      {
+        "id": 9,
+        "title": "凌逍科学会第三届招新",
+        "start_at": "2026-10-16T13:00:00.000Z",
+        "cover": "uploads/lx-poster.webp"
+      },
+      {
+        "id": 8,
+        "title": "粤港澳学生信息科技创新大赛",
+        "start_at": "2025-05-22T08:00:00.000Z",
+        "cover": "uploads/lx-ev-gba.webp"
+      }
+    ]
+  }
+}

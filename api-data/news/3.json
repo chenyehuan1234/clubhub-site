@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "data": {
+    "id": 3,
+    "title": "第二届社团成员招新完成",
+    "summary": "社团完成第二届成员招新，并召开第二届新生大会暨社团动员大会。",
+    "content": "## 第二届社团成员招新完成\n\n凌逍科学会完成第二届社团成员招新，并召开第二届新生大会暨社团动员大会。\n\n新成员按意愿进入实践部、理论部与设计部，随后开始了常态化课程。",
+    "category": "公告",
+    "cover": "uploads/lx-ev-recruit.webp",
+    "status": "published",
+    "is_pinned": 0,
+    "author_id": 2,
+    "author_name": "姚俊熙",
+    "view_count": 190,
+    "published_at": "2024-10-31T10:00:00.000Z",
+    "created_at": "2026-09-27T12:20:12.629Z",
+    "updated_at": "2026-09-27T12:20:12.629Z",
+    "prev": {
+      "id": 2,
+      "title": "STEAM 创客教育论坛：特等奖 1 项、三等奖 2 项、优秀奖 1 项"
+    },
+    "next": {
+      "id": 4,
+      "title": "第一届社团节暨开放日回顾"
+    }
+  }
+}

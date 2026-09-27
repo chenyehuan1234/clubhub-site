@@ -1,0 +1,87 @@
+{
+  "ok": true,
+  "items": [
+    {
+      "id": 5,
+      "title": "基于蒙特卡洛算法模拟优化的演唱会交通网络评估",
+      "category": "其他",
+      "cover": "uploads/lx-proj-montecarlo.webp",
+      "images": "[\"uploads/lx-proj-montecarlo.webp\"]",
+      "summary": "优化蒙特卡洛树搜索，对演唱会散场时的车辆最优路线与道路拥堵度进行分析。",
+      "author_name": "吕伟滨",
+      "department_id": 2,
+      "is_featured": 1,
+      "view_count": 313,
+      "created_at": "2026-07-17T16:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "title": "基于 ARDUINO 的智慧办公室",
+      "category": "编程",
+      "cover": "uploads/lx-proj-office.webp",
+      "images": "[\"uploads/lx-proj-office.webp\"]",
+      "summary": "有效提升办公舒适度并降低能耗，为智慧办公提供实用可靠的解决方案。",
+      "author_name": "蔡泽妍",
+      "department_id": 1,
+      "is_featured": 1,
+      "view_count": 172,
+      "created_at": "2026-06-11T16:00:00.000Z"
+    },
+    {
+      "id": 1,
+      "title": "基于 ARDUINO 手势控制的水下清洁作业机械臂",
+      "category": "编程",
+      "cover": "uploads/lx-proj-arm.webp",
+      "images": "[\"uploads/lx-proj-arm.webp\"]",
+      "summary": "一款新型防水机械臂，能够应用于水域垃圾清理工作。",
+      "author_name": "陈烨寰",
+      "department_id": 1,
+      "is_featured": 1,
+      "view_count": 122,
+      "created_at": "2026-05-30T16:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "title": "永不磨灭的艺术 —— 嵌瓷",
+      "category": "设计",
+      "cover": "uploads/lx-proj-cixi.webp",
+      "images": "[\"uploads/lx-proj-cixi.webp\"]",
+      "summary": "通过 AI 技术深入挖掘和整理非遗资源，用数字化技术进行保护。",
+      "author_name": "辛炎書",
+      "department_id": 3,
+      "is_featured": 0,
+      "view_count": 357,
+      "created_at": "2026-07-29T16:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "道家文化视觉标识设计",
+      "category": "设计",
+      "cover": "uploads/lx-proj-daoism.webp",
+      "images": "[\"uploads/lx-proj-daoism.webp\"]",
+      "summary": "道家文化源于春秋时期的老子，是中国传统文化的重要组成部分。",
+      "author_name": "王丽雯",
+      "department_id": 3,
+      "is_featured": 0,
+      "view_count": 263,
+      "created_at": "2026-07-05T16:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "新型可持续发展智慧物联农业系统",
+      "category": "编程",
+      "cover": "uploads/lx-proj-farm.webp",
+      "images": "[\"uploads/lx-proj-farm.webp\"]",
+      "summary": "应用在缺水干旱地区的作物精细化种植。",
+      "author_name": "陈泽纯",
+      "department_id": 1,
+      "is_featured": 0,
+      "view_count": 216,
+      "created_at": "2026-06-23T16:00:00.000Z"
+    }
+  ],
+  "total": 6,
+  "page": 1,
+  "pageSize": 100,
+  "pages": 1
+}

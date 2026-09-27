@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "data": {
+    "id": 3,
+    "title": "新型可持续发展智慧物联农业系统",
+    "summary": "应用在缺水干旱地区的作物精细化种植。",
+    "description": "应用在缺水干旱地区的作物精细化种植。\n\n## 解决的问题\n\n干旱地区灌溉粗放、用水效率低。系统按地块实时监测土壤含水率与作物长势，只在需要时按需供水。\n\n## 技术\n\n- 多点土壤含水率传感\n- 摄像头 + 计算机视觉判断长势\n- 分区电磁阀按需灌溉\n- 云端留档，便于复盘",
+    "cover": "uploads/lx-proj-farm.webp",
+    "images": "[\"uploads/lx-proj-farm.webp\"]",
+    "author_id": 6,
+    "author_name": "陈泽纯",
+    "department_id": 1,
+    "category": "编程",
+    "tags": "[\"计算机视觉\",\"农业系统\",\"物联网\"]",
+    "status": "published",
+    "is_featured": 0,
+    "view_count": 217,
+    "reviewed_by": null,
+    "review_note": "",
+    "created_at": "2026-06-23T16:00:00.000Z",
+    "updated_at": "2026-09-27T12:20:12.614Z",
+    "tech_stack": "[\"计算机视觉\",\"土壤传感\",\"自动灌溉\",\"物联网\"]",
+    "period": "2024.10 – 2025.03",
+    "member_names": "实践部项目组",
+    "awards": "[]",
+    "demo_url": "https://chenyehuan1234.github.io/lingxiao/files/农场演示视频.mp4",
+    "files": "[]"
+  }
+}

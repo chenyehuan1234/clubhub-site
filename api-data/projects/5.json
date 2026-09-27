@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "data": {
+    "id": 5,
+    "title": "基于蒙特卡洛算法模拟优化的演唱会交通网络评估",
+    "summary": "优化蒙特卡洛树搜索，对演唱会散场时的车辆最优路线与道路拥堵度进行分析。",
+    "description": "通过优化蒙特卡洛树搜索，使其能够搜索和比较子节点的相似性，针对车辆行驶最优路线和道路拥堵度的相关分析，有利于我们在现实应用中作出更加合理的决策和判断。\n\n## 方法\n\n- 把场馆周边路网抽象为带权图\n- 用改进的 MCTS 在解空间中反复采样\n- 对多个散场策略做对比评估\n\n## 结论\n\n分批放行 + 定向引导，比单点疏散显著降低峰值拥堵。\n\n完整分析见「相关文件」中的研究报告。",
+    "cover": "uploads/lx-proj-montecarlo.webp",
+    "images": "[\"uploads/lx-proj-montecarlo.webp\"]",
+    "author_id": 7,
+    "author_name": "吕伟滨",
+    "department_id": 2,
+    "category": "其他",
+    "tags": "[\"算法\",\"蒙特卡洛树搜索\",\"数据分析\"]",
+    "status": "published",
+    "is_featured": 1,
+    "view_count": 314,
+    "reviewed_by": null,
+    "review_note": "",
+    "created_at": "2026-07-17T16:00:00.000Z",
+    "updated_at": "2026-09-27T12:20:12.619Z",
+    "tech_stack": "[\"蒙特卡洛树搜索\",\"Python\",\"交通网络建模\"]",
+    "period": "2025.03 – 2025.05",
+    "member_names": "吕伟滨、沈宇翔",
+    "awards": "[]",
+    "demo_url": "",
+    "files": "[]"
+  }
+}

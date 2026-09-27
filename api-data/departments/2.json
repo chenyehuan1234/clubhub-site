@@ -1,0 +1,52 @@
+{
+  "ok": true,
+  "data": {
+    "id": 2,
+    "name": "理论部",
+    "slug": "theory",
+    "icon": "📐",
+    "summary": "数理基础、算法与科学实验，为项目提供理论与算法支撑。",
+    "description": "理论部负责打牢数理底子：高等数学、数学二级结论、科学实验与数独训练。同时承担算法类课题，例如用蒙特卡洛树搜索对演唱会交通网络做评估优化。",
+    "leader_user_id": 7,
+    "email": "",
+    "sort_order": 1,
+    "created_at": "2026-09-27T12:20:11.243Z",
+    "updated_at": "2026-09-27T12:20:11.243Z",
+    "intro": "给项目打地基的那群人：数学、算法、实验设计与数据处理。喜欢琢磨“为什么”的来这里。",
+    "cover": "uploads/lx-ev-academic.webp",
+    "leader_name": "吕伟滨",
+    "leader_avatar": "uploads/av-lvweibin.webp",
+    "leader_position": "理论部部长",
+    "leader_bio": "我的爱好是节约时间，那么就把时间留给下一个人吧",
+    "member_count": 1,
+    "members": [
+      {
+        "id": 7,
+        "name": "吕伟滨",
+        "position": "理论部部长",
+        "avatar": "uploads/av-lvweibin.webp",
+        "grade": "高二",
+        "bio": "我的爱好是节约时间，那么就把时间留给下一个人吧"
+      }
+    ],
+    "courses": [
+      {
+        "id": 5,
+        "title": "高等数学与数理拓展",
+        "code": "THEO-101",
+        "category": "常规课",
+        "cover": "uploads/lx-proj-montecarlo.webp",
+        "summary": "高等数学、数学二级结论、科学实验与数独。"
+      }
+    ],
+    "projects": [
+      {
+        "id": 5,
+        "title": "基于蒙特卡洛算法模拟优化的演唱会交通网络评估",
+        "category": "其他",
+        "cover": "uploads/lx-proj-montecarlo.webp",
+        "summary": "优化蒙特卡洛树搜索，对演唱会散场时的车辆最优路线与道路拥堵度进行分析。"
+      }
+    ]
+  }
+}

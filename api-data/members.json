@@ -1,0 +1,311 @@
+{
+  "ok": true,
+  "data": {
+    "roster": [
+      {
+        "id": 2,
+        "name": "姚俊熙",
+        "position": "社长",
+        "avatar": "uploads/av-yaojunxi.webp",
+        "bio": "凌逍科学会第三届社长。",
+        "grade": "高二",
+        "joined_at": "2024-09-01",
+        "department_name": null,
+        "department_icon": null
+      },
+      {
+        "id": 3,
+        "name": "郑永锋",
+        "position": "副社长",
+        "avatar": "uploads/av-zhengyongfeng.webp",
+        "bio": "非常欢迎你们来到凌逍这个大家庭",
+        "grade": "高二",
+        "joined_at": "2024-09-02",
+        "department_name": null,
+        "department_icon": null
+      },
+      {
+        "id": 4,
+        "name": "郭阮琪",
+        "position": "副社长",
+        "avatar": "uploads/av-guoruanqi.webp",
+        "bio": "我是凌逍科学会副社长",
+        "grade": "高二",
+        "joined_at": "2024-09-03",
+        "department_name": null,
+        "department_icon": null
+      },
+      {
+        "id": 5,
+        "name": "蔡泽妍",
+        "position": "实践部部长",
+        "avatar": "uploads/av-caizeyan.webp",
+        "bio": "愿我们携手在科学里擦出火花",
+        "grade": "高二",
+        "joined_at": "2024-09-04",
+        "department_name": "实践部",
+        "department_icon": "🔧"
+      },
+      {
+        "id": 7,
+        "name": "吕伟滨",
+        "position": "理论部部长",
+        "avatar": "uploads/av-lvweibin.webp",
+        "bio": "我的爱好是节约时间，那么就把时间留给下一个人吧",
+        "grade": "高二",
+        "joined_at": "2024-09-06",
+        "department_name": "理论部",
+        "department_icon": "📐"
+      },
+      {
+        "id": 8,
+        "name": "王丽雯",
+        "position": "设计部部长",
+        "avatar": "uploads/av-wangliwen.webp",
+        "bio": "擅长 Ps 设计，PPT，123D",
+        "grade": "高二",
+        "joined_at": "2024-09-07",
+        "department_name": "设计部",
+        "department_icon": "🎨"
+      },
+      {
+        "id": 6,
+        "name": "陈泽纯",
+        "position": "实践部副部长",
+        "avatar": "uploads/av-chenzecun.webp",
+        "bio": "我在高二三班 欢迎大家来找我",
+        "grade": "高二",
+        "joined_at": "2024-09-05",
+        "department_name": "实践部",
+        "department_icon": "🔧"
+      },
+      {
+        "id": 9,
+        "name": "辛炎書",
+        "position": "设计部副部长",
+        "avatar": "uploads/av-xinyanshu.webp",
+        "bio": "主攻 3D 建模",
+        "grade": "高二",
+        "joined_at": "2024-09-08",
+        "department_name": "设计部",
+        "department_icon": "🎨"
+      },
+      {
+        "id": 10,
+        "name": "苏煜辉",
+        "position": "指导老师",
+        "avatar": "uploads/av-suyuhui.webp",
+        "bio": "为社团提供悉心指导",
+        "grade": "",
+        "joined_at": "2025-09-09",
+        "department_name": null,
+        "department_icon": null
+      }
+    ],
+    "alumniTerms": [
+      {
+        "term": "第一届",
+        "members": [
+          {
+            "id": 2,
+            "name": "陈庆",
+            "role": "社长",
+            "term": "第一届",
+            "org": "广州大学网络空间安全学院",
+            "avatar": "uploads/av-chenqing.webp",
+            "quote": ""
+          },
+          {
+            "id": 3,
+            "name": "刘梓杭",
+            "role": "副社长",
+            "term": "第一届",
+            "org": "北京化工大学计算机专业",
+            "avatar": "uploads/av-liuzihang.webp",
+            "quote": ""
+          },
+          {
+            "id": 4,
+            "name": "汤梵俪",
+            "role": "副社长",
+            "term": "第一届",
+            "org": "中山大学生态学",
+            "avatar": "uploads/av-tangfanli.webp",
+            "quote": ""
+          },
+          {
+            "id": 5,
+            "name": "陈烨寰",
+            "role": "实践部部长",
+            "term": "第一届",
+            "org": "华南理工大学自动化科学与工程学院",
+            "avatar": "uploads/av-chenyehuan.webp",
+            "quote": ""
+          },
+          {
+            "id": 6,
+            "name": "张贵杰",
+            "role": "实践部副部长",
+            "term": "第一届",
+            "org": "航天工程大学",
+            "avatar": "uploads/av-zhangguijie.webp",
+            "quote": ""
+          },
+          {
+            "id": 7,
+            "name": "薛垲越",
+            "role": "理论部部长",
+            "term": "第一届",
+            "org": "暨南大学",
+            "avatar": "uploads/av-xuekaiyue.webp",
+            "quote": ""
+          },
+          {
+            "id": 8,
+            "name": "沈宇翔",
+            "role": "理论部副部长",
+            "term": "第一届",
+            "org": "武汉大学物理学强基计划专业",
+            "avatar": "uploads/av-shengyuxiang.webp",
+            "quote": ""
+          },
+          {
+            "id": 9,
+            "name": "林笔蓝",
+            "role": "财务 + 哲学组组长",
+            "term": "第一届",
+            "org": "上海政法学院应用心理学专业",
+            "avatar": "uploads/av-linbilan.webp",
+            "quote": ""
+          },
+          {
+            "id": 10,
+            "name": "陈孜铄",
+            "role": "设计负责人",
+            "term": "第一届",
+            "org": "广州中医药大学中医学 5+3 一体化",
+            "avatar": "uploads/av-chenzishuo.webp",
+            "quote": ""
+          }
+        ]
+      },
+      {
+        "term": "第二届",
+        "members": [
+          {
+            "id": 11,
+            "name": "余滟镁",
+            "role": "社长",
+            "term": "第二届",
+            "org": "",
+            "avatar": "",
+            "quote": ""
+          },
+          {
+            "id": 12,
+            "name": "林佳宁",
+            "role": "副社长",
+            "term": "第二届",
+            "org": "",
+            "avatar": "",
+            "quote": ""
+          },
+          {
+            "id": 13,
+            "name": "杨振杰",
+            "role": "实践部部长",
+            "term": "第二届",
+            "org": "",
+            "avatar": "",
+            "quote": ""
+          },
+          {
+            "id": 14,
+            "name": "陈梓帆",
+            "role": "实践部副部长",
+            "term": "第二届",
+            "org": "",
+            "avatar": "",
+            "quote": ""
+          },
+          {
+            "id": 15,
+            "name": "林越",
+            "role": "实践部副部长",
+            "term": "第二届",
+            "org": "",
+            "avatar": "",
+            "quote": ""
+          },
+          {
+            "id": 16,
+            "name": "文孟涛",
+            "role": "理论部部长",
+            "term": "第二届",
+            "org": "",
+            "avatar": "",
+            "quote": ""
+          },
+          {
+            "id": 17,
+            "name": "方燕玲",
+            "role": "设计部部长",
+            "term": "第二届",
+            "org": "",
+            "avatar": "",
+            "quote": ""
+          }
+        ]
+      },
+      {
+        "term": "第零届",
+        "members": [
+          {
+            "id": 1,
+            "name": "林奕君",
+            "role": "社长",
+            "term": "第零届",
+            "org": "深圳技术大学",
+            "avatar": "uploads/av-liyijun.webp",
+            "quote": ""
+          }
+        ]
+      }
+    ],
+    "departments": [
+      {
+        "id": 1,
+        "name": "实践部",
+        "icon": "🔧",
+        "summary": "开发板、传感器与程序设计的动手项目，社团项目落地的主力。",
+        "intro": "社团里所有要动手的活儿：电子、机械、编程、装配与调试。不必一开始就会，只要愿意把手弄脏。",
+        "description": "实践部负责把想法做成实物：从 Arduino 开发板与各类传感器入手，完成电路搭建、程序编写与结构装配。社团的水下清洁机械臂、智慧办公室、智慧农业系统都由这里产出。",
+        "leader_name": "蔡泽妍",
+        "leader_avatar": "uploads/av-caizeyan.webp",
+        "member_count": 2
+      },
+      {
+        "id": 2,
+        "name": "理论部",
+        "icon": "📐",
+        "summary": "数理基础、算法与科学实验，为项目提供理论与算法支撑。",
+        "intro": "给项目打地基的那群人：数学、算法、实验设计与数据处理。喜欢琢磨“为什么”的来这里。",
+        "description": "理论部负责打牢数理底子：高等数学、数学二级结论、科学实验与数独训练。同时承担算法类课题，例如用蒙特卡洛树搜索对演唱会交通网络做评估优化。",
+        "leader_name": "吕伟滨",
+        "leader_avatar": "uploads/av-lvweibin.webp",
+        "member_count": 1
+      },
+      {
+        "id": 3,
+        "name": "设计部",
+        "icon": "🎨",
+        "summary": "视觉设计、3D 建模与打印、AIGC 创作，让项目看得见。",
+        "intro": "社团的对外门面：海报、排版、3D 建模与打印、AI 创作。你的作品会被全校看到。",
+        "description": "设计部负责一切对外呈现：Photoshop 修图与排版、123D 三维建模与打印、以及用 AI 技术做非遗数字化这样的创作课题。社团的海报、明信片与展板都出自这里。",
+        "leader_name": "王丽雯",
+        "leader_avatar": "uploads/av-wangliwen.webp",
+        "member_count": 2
+      }
+    ]
+  }
+}

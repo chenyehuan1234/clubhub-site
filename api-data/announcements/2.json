@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "data": {
+    "id": 2,
+    "title": "第三届招新即将开始",
+    "content": "新学期招新即将启动，实践部、理论部、设计部同时开放。\n\n不限年级、不限基础，欢迎对科学感兴趣的同学加入。",
+    "level": "normal",
+    "status": "published",
+    "is_pinned": 0,
+    "target_type": "all",
+    "target_ids": "[]",
+    "publish_at": "2026-09-21T09:00:00.000Z",
+    "expire_at": "2026-11-26T23:59:00.000Z",
+    "author_id": 2,
+    "author_name": "姚俊熙",
+    "view_count": 74,
+    "created_at": "2026-09-27T12:20:12.635Z",
+    "updated_at": "2026-09-27T12:20:12.635Z"
+  }
+}

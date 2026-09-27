@@ -1,0 +1,59 @@
+{
+  "ok": true,
+  "data": [
+    {
+      "id": 1,
+      "name": "实践部",
+      "slug": "practice",
+      "icon": "🔧",
+      "summary": "开发板、传感器与程序设计的动手项目，社团项目落地的主力。",
+      "description": "实践部负责把想法做成实物：从 Arduino 开发板与各类传感器入手，完成电路搭建、程序编写与结构装配。社团的水下清洁机械臂、智慧办公室、智慧农业系统都由这里产出。",
+      "leader_user_id": 5,
+      "email": "",
+      "sort_order": 0,
+      "created_at": "2026-09-27T12:20:11.241Z",
+      "updated_at": "2026-09-27T12:20:11.241Z",
+      "intro": "社团里所有要动手的活儿：电子、机械、编程、装配与调试。不必一开始就会，只要愿意把手弄脏。",
+      "cover": "uploads/lx-proj-arm.webp",
+      "leader_name": "蔡泽妍",
+      "leader_avatar": "uploads/av-caizeyan.webp",
+      "member_count": 2
+    },
+    {
+      "id": 2,
+      "name": "理论部",
+      "slug": "theory",
+      "icon": "📐",
+      "summary": "数理基础、算法与科学实验，为项目提供理论与算法支撑。",
+      "description": "理论部负责打牢数理底子：高等数学、数学二级结论、科学实验与数独训练。同时承担算法类课题，例如用蒙特卡洛树搜索对演唱会交通网络做评估优化。",
+      "leader_user_id": 7,
+      "email": "",
+      "sort_order": 1,
+      "created_at": "2026-09-27T12:20:11.243Z",
+      "updated_at": "2026-09-27T12:20:11.243Z",
+      "intro": "给项目打地基的那群人：数学、算法、实验设计与数据处理。喜欢琢磨“为什么”的来这里。",
+      "cover": "uploads/lx-ev-academic.webp",
+      "leader_name": "吕伟滨",
+      "leader_avatar": "uploads/av-lvweibin.webp",
+      "member_count": 1
+    },
+    {
+      "id": 3,
+      "name": "设计部",
+      "slug": "design",
+      "icon": "🎨",
+      "summary": "视觉设计、3D 建模与打印、AIGC 创作，让项目看得见。",
+      "description": "设计部负责一切对外呈现：Photoshop 修图与排版、123D 三维建模与打印、以及用 AI 技术做非遗数字化这样的创作课题。社团的海报、明信片与展板都出自这里。",
+      "leader_user_id": 8,
+      "email": "",
+      "sort_order": 2,
+      "created_at": "2026-09-27T12:20:11.246Z",
+      "updated_at": "2026-09-27T12:20:11.246Z",
+      "intro": "社团的对外门面：海报、排版、3D 建模与打印、AI 创作。你的作品会被全校看到。",
+      "cover": "uploads/lx-ev-festival.webp",
+      "leader_name": "王丽雯",
+      "leader_avatar": "uploads/av-wangliwen.webp",
+      "member_count": 2
+    }
+  ]
+}
